@@ -47,6 +47,5 @@ An **interactive graph visualization tool** that allows users to **create graphs
 
 ---
 
-## 📧 Contact
-🔗 **LinkedIn**: [Aditi Kulkarni](https://www.linkedin.com/in/aditi-kulkarni-45a9381b7/)
+
 
